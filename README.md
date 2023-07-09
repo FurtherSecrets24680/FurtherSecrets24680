@@ -2,7 +2,7 @@
 - 👀 I’m interested in science, nature, technology especially AI) and gaming.
 - 🌱 I’m currently learning coding and AI 
 - 💞️ I’m looking to collaborate on science and gaming.
-- 📫 How to reach me (I don't know what this means).
+- 📫 How to reach me - •Discord - furthersecrets.•Instagram - @notfurthersecrets
 
 <!---
 FurtherSecrets24680/FurtherSecrets24680 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
