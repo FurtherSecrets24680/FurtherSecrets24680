@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FurtherSecrets24680
-- 👀 I’m interested in science, nature, technology and gaming.
-- 🌱 I’m currently learning science and other stuffs.
+- 👀 I’m interested in science, nature, technology especially AI) and gaming.
+- 🌱 I’m currently learning coding and AI 
 - 💞️ I’m looking to collaborate on science and gaming.
 - 📫 How to reach me (I don't know what this means).
 
