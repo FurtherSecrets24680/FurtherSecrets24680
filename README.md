@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FurtherSecrets24680
-- 👀 I’m interested in science, nature, technology especially AI) and gaming.
+- 👀 I’m interested in science, technology (especially AI) and gaming.
 - 🌱 I’m currently learning coding and AI 
 - 💞️ I’m looking to collaborate on science and gaming.
 - 📫 How to reach me - •Discord - furthersecrets.•Instagram - @notfurthersecrets
