@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FurtherSecrets24680
-- 👀 I’m interested in science, technology (especially AI) and gaming.
+- 👀 I’m interested in chemistry, astrophysics, digital tech and linguistics!
 - 🖥️ I have been experimenting with the features of different operating systems. 
-- 🌱 I’m currently learning programming in Python, and making a home web server in HTML.
+- 🌱 I’m currently learning programming in Python, and building an app for chemistry!
 - 📫 How to reach me:
     - Discord - @FurtherSecrets
     - Instagram - @notfurthersecrets
