@@ -26,11 +26,7 @@
 [![X](https://img.shields.io/badge/@FurSec24680-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/FurSec24680)
 [![Reddit](https://img.shields.io/badge/u/FurtherSecrets24680-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FurtherSecrets24680/)
 ![Discord](https://img.shields.io/badge/@FurtherSecrets-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
-
 </div>
-
-## GitHub Stats
 
 <div align="center">
 <br />
