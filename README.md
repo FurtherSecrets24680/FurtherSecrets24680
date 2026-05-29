@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @FurtherSecrets24680
 - 👀 I’m interested in chemistry, astrophysics, digital tech and linguistics!
 - 🖥️ I have been experimenting with the features of different operating systems. 
-- 🌱 I’m currently learning programming in Python, and building an app for chemistry!
+- 🌱 I’m currently learning programming in Python, C++, Swift and Kotlin.
+- 🧪 Currently developing a mobile app for chemistry enthusiasts for fast compound lookup and use useful chemistry tools!
 - 📫 How to reach me:
     - Discord - @FurtherSecrets
     - Instagram - @notfurthersecrets
