@@ -27,10 +27,3 @@
 [![Reddit](https://img.shields.io/badge/u/FurtherSecrets24680-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/FurtherSecrets24680/)
 ![Discord](https://img.shields.io/badge/@FurtherSecrets-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 </div>
-
-<div align="center">
-<br />
-<img src="https://streak-stats.demolab.com?user=FurtherSecrets24680&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-<br />
-</div>
-
